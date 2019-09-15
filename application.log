@@ -1,0 +1,135 @@
+2019-09-15 19:07:52,965  INFO [main] Main:16 - Start of Test
+2019-09-15 19:10:52,545  INFO [main] Main:16 - Start of Test
+2019-09-15 19:17:15,202  INFO [main] Main:16 - Start of Test
+2019-09-15 19:18:50,607  INFO [main] Main:16 - Start of Test
+2019-09-15 19:18:55,876 ERROR [main] Utilities:132 - Kuch to gadbad hai !
+java.lang.NullPointerException
+	at com.anaesthetist.Utilities.readAnswer(Utilities.java:129)
+	at com.anaesthetist.Main.main(Main.java:30)
+2019-09-15 19:20:39,652  INFO [main] Main:16 - Start of Test
+2019-09-15 19:20:44,432 ERROR [main] Utilities:132 - Kuch to gadbad hai !
+java.lang.NullPointerException
+	at com.anaesthetist.Utilities.readAnswer(Utilities.java:129)
+	at com.anaesthetist.Main.main(Main.java:30)
+2019-09-15 19:22:24,460  INFO [main] Main:16 - Start of Test
+2019-09-15 19:22:32,941  INFO [main] Main:16 - Start of Test
+2019-09-15 19:24:50,589  INFO [main] Main:16 - Start of Test
+2019-09-15 19:29:37,042  INFO [main] Main:16 - Start of Test
+2019-09-15 19:41:04,072  INFO [main] Main:16 - Start of Test
+2019-09-15 19:41:04,165  INFO [main] Main:16 - Start of Test
+2019-09-15 19:42:39,320  INFO [main] Main:16 - Start of Test
+2019-09-15 19:47:14,074  INFO [main] Main:16 - Start of Test
+2019-09-15 19:48:06,191  INFO [main] Main:16 - Start of Test
+2019-09-15 20:02:05,726  INFO [main] Main:16 - Start of Test
+2019-09-15 20:03:57,812  INFO [main] Main:16 - Start of Test
+2019-09-15 20:04:02,401  INFO [main] Utilities:122 - Output Value:-
+2019-09-15 20:04:40,056  INFO [main] Main:16 - Start of Test
+2019-09-15 20:04:41,965  INFO [main] Main:16 - Start of Test
+2019-09-15 20:04:45,522  INFO [main] Utilities:122 - Output Value:-jgjh
+2019-09-15 20:04:47,903  INFO [main] Utilities:122 - Output Value:-jgjh
+2019-09-15 20:05:52,890  INFO [main] Main:16 - Start of Test
+2019-09-15 20:05:59,178  INFO [main] Utilities:122 - Output Value:-jgjh
+2019-09-15 20:07:41,832  INFO [main] Main:16 - Start of Test
+2019-09-15 20:07:46,732  INFO [main] Utilities:122 - Output Value:-jgjh
+2019-09-15 20:08:32,177  INFO [main] Main:16 - Start of Test
+2019-09-15 20:08:37,631  INFO [main] Utilities:122 - Output Value:-jgjh
+2019-09-15 20:08:37,632 ERROR [main] Utilities:134 - Kuch to gadbad hai !
+java.io.FileNotFoundException: C:\Users\YELLOYOLK\OneDrive\SELENIUMEASY\calculator\src\WriteData.xlsx (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.anaesthetist.Utilities.readAnswer(Utilities.java:126)
+	at com.anaesthetist.Main.main(Main.java:30)
+2019-09-15 20:20:16,240  INFO [main] Main:16 - Start of Test
+2019-09-15 20:20:21,403  INFO [main] Utilities:123 - Output Value:-jgjh
+2019-09-15 20:20:21,404 ERROR [main] Utilities:139 - Kuch to gadbad hai !
+java.io.FileNotFoundException: C:\Users\YELLOYOLK\OneDrive\SELENIUMEASY-wrong\calculator\src\WriteData.xlsx (The system cannot find the path specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.anaesthetist.Utilities.readAnswer(Utilities.java:128)
+	at com.anaesthetist.Main.main(Main.java:30)
+2019-09-15 20:22:35,593  INFO [main] Main:16 - Start of Test
+2019-09-15 20:22:41,020  INFO [main] Utilities:123 - Output Value:-jgjh
+2019-09-15 20:22:41,021 ERROR [main] Utilities:139 - Kuch to gadbad hai !
+java.io.FileNotFoundException: C:\Users\YELLOYOLK\OneDrive\SELENIUMEASY\calculator\src\WriteData.xlsx (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.anaesthetist.Utilities.readAnswer(Utilities.java:128)
+	at com.anaesthetist.Main.main(Main.java:30)
+2019-09-15 20:24:15,072  INFO [main] Main:16 - Start of Test
+2019-09-15 20:24:20,929  INFO [main] Utilities:123 - Output Value:-jgjh
+2019-09-15 20:24:58,601  INFO [main] Main:16 - Start of Test
+2019-09-15 20:25:03,931  INFO [main] Utilities:123 - Output Value:-
+2019-09-15 20:28:21,276  INFO [main] Main:16 - Start of Test
+2019-09-15 20:28:32,148  INFO [main] Utilities:130 - Output Value:-
+2019-09-15 20:47:52,543  INFO [main] Main:16 - Start of Test
+2019-09-15 20:47:59,918 ERROR [main] Utilities:151 - Kuch to gadbad hai !
+org.openqa.selenium.JavascriptException: javascript error: argument is not defined
+  (Session info: chrome=76.0.3809.132)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-F2NDD0R', ip: '192.168.43.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\YELLOY~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64495}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4a26e429747440825d53790e5f49cb81
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:489)
+	at com.anaesthetist.Utilities.readAnswer(Utilities.java:135)
+	at com.anaesthetist.Main.main(Main.java:30)
+2019-09-15 20:54:14,427  INFO [main] Main:16 - Start of Test
+2019-09-15 20:54:19,132  INFO [main] Utilities:138 - Output Value:-null
+2019-09-15 20:54:19,133  INFO [main] Utilities:139 - Output Value:-null
+2019-09-15 20:54:54,436  INFO [main] Main:16 - Start of Test
+2019-09-15 20:54:59,597  INFO [main] Utilities:138 - Output Value:-null
+2019-09-15 20:54:59,597  INFO [main] Utilities:139 - Output Value:-57
+2019-09-15 20:56:30,766  INFO [main] Main:16 - Start of Test
+2019-09-15 20:56:35,607  INFO [main] Utilities:139 - Output Value:-57
+2019-09-15 20:56:35,608  INFO [main] Utilities:140 - Output Value:-57
+2019-09-15 20:58:41,955  INFO [main] Main:16 - Start of Test
+2019-09-15 20:58:46,071  INFO [main] Utilities:139 - Output Value:-57
+2019-09-15 20:58:46,071  INFO [main] Utilities:140 - Output Value:-57
+2019-09-15 21:18:20,148  INFO [main] Main:16 - Start of Test
+2019-09-15 21:18:20,148 ERROR [main] Utilities:53 - file not found
+java.io.FileNotFoundException: C:\Users\YELLOYOLK\OneDrive\SELENIUMEASY\calculatorsrc\test\config\javascriptexecuter\www\anaesthetist\com\config.properties (The system cannot find the path specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.anaesthetist.Utilities.loadPropertyFile(Utilities.java:49)
+	at com.anaesthetist.Main.main(Main.java:19)
+2019-09-15 21:18:41,772  INFO [main] Main:16 - Start of Test
+2019-09-15 21:18:41,788 ERROR [main] Utilities:53 - file not found
+java.io.FileNotFoundException: C:\Users\YELLOYOLK\OneDrive\SELENIUMEASY\calculator\src\test\config\javascriptexecuter\www\anaesthetist\com\config.properties (The system cannot find the path specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.anaesthetist.Utilities.loadPropertyFile(Utilities.java:49)
+	at com.anaesthetist.Main.main(Main.java:19)
+2019-09-15 21:19:58,653  INFO [main] Main:16 - Start of Test
+2019-09-15 21:19:58,668 ERROR [main] Utilities:53 - file not found
+java.io.FileNotFoundException: C:\Users\YELLOYOLK\OneDrive\SELENIUMEASY\calculator\src\test\config\javascriptexecuter\www\anaesthetist\com\config.properties (The system cannot find the path specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.anaesthetist.Utilities.loadPropertyFile(Utilities.java:49)
+	at com.anaesthetist.Main.main(Main.java:19)
+2019-09-15 21:20:36,669  INFO [main] Main:16 - Start of Test
+2019-09-15 21:20:36,685 ERROR [main] Utilities:54 - file not found
+java.io.FileNotFoundException: C:\Users\YELLOYOLK\OneDrive\SELENIUMEASY\calculator\src\test\config\javascriptexecuter\www\anaesthetist\com\config.properties (The system cannot find the path specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.anaesthetist.Utilities.loadPropertyFile(Utilities.java:50)
+	at com.anaesthetist.Main.main(Main.java:19)
+2019-09-15 21:21:40,907  INFO [main] Main:16 - Start of Test
+2019-09-15 21:22:56,392  INFO [main] Main:16 - Start of Test
+2019-09-15 21:23:00,505  INFO [main] Utilities:139 - Output Value:-57
